@@ -19,9 +19,9 @@ This addin allows ArcGIS Pro users to quickly browse through NOAA Tides and Curr
 - Open ArcGIS Pro
 - Click on the "NOAA CO-OPS API" button in the Quick Access Toolbar
 - Click on the "List Stations" button to browse stations by station type. After running this tool, a point feature class that contains all the metadata of the stations will be created in the current map.
-![List Stations](./Images/list_stations.png)
+![List Stations](Images/list_stations.png)
 - Click on the "Download Data" button to download the specific data to a CSV file.
-![Download Data](./Images/download_data.png)
+![Download Data](Images/download_data.png)
 
 ## Acknowledgements
 
