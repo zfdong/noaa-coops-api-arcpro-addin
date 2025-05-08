@@ -1,6 +1,9 @@
 # noaa-coops-api-arcpro-addin
 An ArcGIS Pro AddIn for NOAA CO-OPS Tides and Currents Data and Metadata APIs. 
 
+## ArcGIS Pro Version
+This addin is compatible with ArcGIS Pro 3.4 and above.
+
 ## Features
 This addin allows ArcGIS Pro users to quickly browse through NOAA Tides and Currents Stations and download the specific data to CSV.
 
@@ -11,8 +14,7 @@ This addin allows ArcGIS Pro users to quickly browse through NOAA Tides and Curr
 ## Installation
 
 - Download the "coopsAPI.esriAddinX" file from the "AddIns" folder.
-- Move the file to a known location, preferably "C:\Users\<username>\Documents\ArcGIS\AddIns\ArcGISPro"
-- Click the AddIn file to install.
+- Double click the AddIn file to install.
 
 ## Usage
 
@@ -26,5 +28,4 @@ This addin allows ArcGIS Pro users to quickly browse through NOAA Tides and Curr
 ## Acknowledgements
 
 This project is partially sponsored by the Joint Airborne Lidar Bathymetry Technical Center of Expertise ([JALBTCX](https://jalbtcx.usace.army.mil/)). 
-
 This package was made possible by the following open source project [noaa_coops](https://github.com/GClunies/noaa_coops).
