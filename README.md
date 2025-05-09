@@ -5,7 +5,7 @@ An ArcGIS Pro AddIn for NOAA CO-OPS Tides and Currents [Data](https://api.tidesa
 This addin is compatible with ArcGIS Pro 3.4 and above.
 
 ## Features
-This addin allows ArcGIS Pro users to quickly browse through NOAA Tides and Currents Stations by product type and download the specific data to CSV.
+This addin allows ArcGIS Pro users to quickly browse through [NOAA Tides and Currents stations](https://tidesandcurrents.noaa.gov/) by product type and download the specific data to CSV.
 
 - Retrieve NOAA CO-OPS stations by station/product type.
 - View station details with all available metadata.
