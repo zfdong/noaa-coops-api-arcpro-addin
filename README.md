@@ -29,3 +29,8 @@ This addin allows ArcGIS Pro users to quickly browse through [NOAA Tides and Cur
 
 This project is partially sponsored by the Joint Airborne Lidar Bathymetry Technical Center of Expertise ([JALBTCX](https://jalbtcx.usace.army.mil/)). 
 This package was developed by following the open source project [noaa_coops](https://github.com/GClunies/noaa_coops).
+
+## Contributing
+
+To contribute to this project, please submit an issue to report a bug or request a feature.
+
